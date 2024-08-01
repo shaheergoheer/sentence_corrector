@@ -11,6 +11,6 @@ pip3 install -r requirements.txt
 ## run the application
 python3 app.py
 
-## The application will be running upon http://127.0.0.1:5000/
+The application will be running upon http://127.0.0.1:5000/
 
 Use test_api.ipynb to hit the API and test.
